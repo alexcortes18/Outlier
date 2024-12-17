@@ -1,0 +1,14 @@
+The sun dipped below the horizon, casting a golden glow across the tranquil sea. Waves lapped gently against the shore, their rhythmic motion soothing to all who watched. As the first stars began to appear, a cool breeze swept through the palms, carrying with it the salty scent of the ocean.
+
+In the heart of the bustling city, life moved at an unrelenting pace. Cars honked, people hurried along the sidewalks, and towering skyscrapers loomed overhead. Despite the chaos, a street musician strummed his guitar, drawing smiles from passersby and providing a brief moment of calm amid the noise.
+
+
+
+This paragraph is followed by several blank lines.
+
+
+
+Let's see how your program handles this.
+
+
+Numbers can also be tricky. 12345 isn't a word, but it's part of the text. Does your program count it, or skip it? Additionally, consider how decimal numbers like 3.14 or large numbers like 1,000,000 are treated.
