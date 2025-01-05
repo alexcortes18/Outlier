@@ -1,0 +1,857 @@
+[
+    {
+        "ID": "284721"
+    },
+    {
+        "POS": "noun"
+    },
+    [
+        {
+            "head": [
+                [
+                    {
+                        "base-form": [
+                            [
+                                {
+                                    "entry13": [
+                                        "record1",
+                                        [
+                                            {
+                                                "homo-num": [
+                                                    "1"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "prons": [
+                                        [
+                                            {
+                                                "pron": [
+                                                    "&pstressrek&reversedopeno&lengthenerd"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "part-of-speech": [
+                            "noun"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "stars": [
+                            "☆☆☆"
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "sense45": [
+                [
+                    {
+                        "sense-num": [
+                            "1"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "grammar": [
+                            [
+                                {
+                                    "syntax-coding": [
+                                        [
+                                            {
+                                                "reduced": [
+                                                    "C"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "information kept about something that has happened"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "記錄"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "example": [
+                                        "medical/archaeological/historical records"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "醫療/考古/歷史記錄"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "patterns-collocations": [
+                                        "keep/maintain/compile a record",
+                                        {
+                                            "hair": ""
+                                        },
+                                        {
+                                            "hair": ""
+                                        },
+                                        {
+                                            "hair": ""
+                                        },
+                                        {
+                                            "hair": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "example": [
+                                        "Try to keep a record of everything you eat this week."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "盡量記錄本週你吃的所有東西。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "patterns-collocations": [
+                                        "+of",
+                                        [
+                                            {}
+                                        ],
+                                        {
+                                            "hair": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "example": [
+                                        "a weekly record of world events"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "一週世界大事記"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "sub-sense": [
+                            [
+                                {
+                                    "sub-sense-num": [
+                                        "1a"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "grammar": [
+                                        [
+                                            {
+                                                "syntax-coding": [
+                                                    "singular"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "definition": [
+                                        "the things that someone has done, that give an idea of what they are like"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "履歷；記錄"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "examples": [
+                                        [
+                                            {
+                                                "patterns-collocations": [
+                                                    "a good/bad record",
+                                                    {
+                                                        "hair": ""
+                                                    },
+                                                    {
+                                                        "hair": ""
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "example": [
+                                                    "The company has a reasonably good safety record."
+                                                ]
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "trans": [
+                                                    "該公司有相當好的安全記錄。"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "sense45": [
+                [
+                    {
+                        "sense-num": [
+                            "2"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "grammar": [
+                            [
+                                {
+                                    "syntax-coding": [
+                                        [
+                                            {
+                                                "reduced": [
+                                                    "C"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "the best achievement so far in a particular activity, especially sport"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "（尤指體育運動中的）最佳紀錄，最佳成績"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "patterns-collocations": [
+                                        "break/beat/smash a record",
+                                        {
+                                            "hair": ""
+                                        },
+                                        {
+                                            "hair": ""
+                                        },
+                                        {
+                                            "hair": ""
+                                        },
+                                        {
+                                            "hair": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "example": [
+                                        "Woods broke the course record with a superb score."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "伍茲以優異成績打破了賽場紀錄。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "patterns-collocations": [
+                                        "set a record"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "example": [
+                                        "The lap record was set last year by Schumacher."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "賽車跑道紀錄是由舒馬赫在去年創造的。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "patterns-collocations": [
+                                        "hold a record"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "example": [
+                                        "She holds the world indoor 800 metres record."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "她是室內800公尺的世界紀錄保持人。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "sense45": [
+                [
+                    {
+                        "sense-num": [
+                            "3"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "grammar": [
+                            [
+                                {
+                                    "syntax-coding": [
+                                        [
+                                            {
+                                                "reduced": [
+                                                    "C"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "a large round black piece of plastic containing music or other sounds"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "唱片"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "example": [
+                                        "Original Beatles’ records are worth a lot of money now."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "披頭四樂隊的原版唱片現在很值錢。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "sub-sense": [
+                            [
+                                {
+                                    "sub-sense-num": [
+                                        "3a"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "definition": [
+                                        "a piece of music that you can buy on a CD, cassette, or record",
+                                        [
+                                            {
+                                                "ndv": [
+                                                    "cassette"
+                                                ]
+                                            }
+                                        ]
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "錄製的音樂"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            "a broken record"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "style-level": [
+                            "informal"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "someone who keeps annoying you by repeating the same thing"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "囉唆個沒完的人"
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            "change the record"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "style-level": [
+                            "spoken"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "used for telling someone to stop talking about the same thing because they are annoying you"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "別再喋喋不休"
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            "the hottestlowestworst etc on record",
+                            [
+                                {
+                                    "slash": [
+                                        "hottest"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "slash": [
+                                        "lowest"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "slash": [
+                                        "worst etc"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            [
+                                {
+                                    "slash": [
+                                        "hotter"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "slash": [
+                                        "lower"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "slash": [
+                                        "worse"
+                                    ]
+                                }
+                            ],
+                            " etc than ever before"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "有史以來最熱的/最低的/最差的"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "example": [
+                                        "This summer has been the hottest on record."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "今年夏天是有史以來最熱的。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            "(just) for the record"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "used for giving a piece of information that you want people to know"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "（只是）為了記錄在案"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "example": [
+                                        "It doesn’t matter now, but just for the record – you were wrong."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "現在沒關係了。但必須鄭重聲明是你錯了。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            "off the record"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "used for saying that a remark is not official or intended to be made public"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "不公開的；非正式的"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "example": [
+                                        "Off the record, many Conservatives admit they cannot win the election."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "許多保守黨人私下都承認他們不可能贏得選舉。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            "on (the) record"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "used for stating that you are saying something officially or publicly"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "公開的；正式的"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "examples": [
+                            [
+                                {
+                                    "patterns-collocations": [
+                                        "go on record"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "example": [
+                                        "The minister has gone on record as saying the law should be changed."
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "trans": [
+                                        "部長公開說應該修改這項法律。"
+                                    ]
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "phrase": [
+                [
+                    {
+                        "multiword": [
+                            [
+                                {
+                                    "slash": [
+                                        "set"
+                                    ]
+                                }
+                            ],
+                            [
+                                {
+                                    "slash": [
+                                        "put"
+                                    ]
+                                }
+                            ],
+                            " the record straight"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "definition": [
+                            "to tell the truth about something after someone else has not told the truth about it"
+                        ]
+                    }
+                ],
+                [
+                    {
+                        "trans": [
+                            "說出事實；講出真相"
+                        ]
+                    }
+                ]
+            ]
+        }
+    ]
+]
